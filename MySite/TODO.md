@@ -1,0 +1,5 @@
+- [x] Update CSS for .profile-img to add box-shadow for professional edges
+- [x] Change image class from "img-fluid hero-img" to "profile-img" in HTML
+- [x] Increase the size of .profile-img to make it larger
+- [x] Improve contrast of the paragraph text in the hero section against the background
+- [ ] Make the profile image even larger
